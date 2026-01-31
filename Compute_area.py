@@ -1,4 +1,4 @@
-# Author: N. Afroze and A.H
+# Author: Tian. M and H. A.
 # Script description:
 # - Read AnyLabeling JSON files
 # - Each polygon = 1 grain (labels ignored)
